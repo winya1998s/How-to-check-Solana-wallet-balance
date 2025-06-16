@@ -116,3 +116,5 @@ This project is built using C++ and requires several dependencies. We suggest us
 ## License
 
 This project is under the [MIT License](/LICENSE).
+
+Update: The broken link has been fixed, it's now operational.

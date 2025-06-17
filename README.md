@@ -117,4 +117,6 @@ This project is built using C++ and requires several dependencies. We suggest us
 
 This project is under the [MIT License](/LICENSE).
 
-Update: The broken link has been fixed, it's now operational.
+
+
+Update:  Tuesday 17 June 2025 I've tested it, and the link is now clickable.
